@@ -40,9 +40,10 @@
 - [Ikea IDÅSEN Sit/Stand Desk](https://www.ikea.com/us/en/p/idasen-desk-sit-stand-black-dark-gray-s79280998/) and [Ikea MARKUS Office Chair](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/)
 - [Brother HL-2270DW Laser Printer](https://www.brother-usa.com/products/hl2270dw)
 - Google Pixel 3
+- [Sennheiser PXC 550 Noise Cancelling Headphones](https://smile.amazon.com/gp/product/B01E3XLNA0)
 - [GoRuck GR1 26l Backpack](https://www.goruck.com/collections/gr1/products/gr1?variant=32978334744676)
 - [Zojirushi 600ml Travel Mug](https://smile.amazon.com/dp/B00CHOUI86)
-- Phillips Hue Lights
+- [Phillips Hue Lights](https://www.philips-hue.com)
 - [Light Therapy Lamp](https://smile.amazon.com/gp/product/B074G342RV)
 
 <!--
