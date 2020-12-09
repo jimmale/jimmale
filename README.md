@@ -37,8 +37,7 @@
 - [PiHole](https://pi-hole.net/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
 - [mosh](https://mosh.org/)
-- [Ikea IDÅSEN Sit/Stand Desk](https://www.ikea.com/us/en/p/idasen-desk-sit-stand-black-dark-gray-s79280998/)
-- [Ikea MARKUS Office Chair](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/)
+- [Ikea IDÅSEN Sit/Stand Desk](https://www.ikea.com/us/en/p/idasen-desk-sit-stand-black-dark-gray-s79280998/) and [Ikea MARKUS Office Chair](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/)
 - [Brother HL-2270DW Laser Printer](https://www.brother-usa.com/products/hl2270dw)
 - Google Pixel 3
 - [GoRuck GR1 26l Backpack](https://www.goruck.com/collections/gr1/products/gr1?variant=32978334744676)
