@@ -17,6 +17,12 @@
 - Compliance-scoped (SOX, PCI, GLBA) systems modernization
 - Linux system administration (modern or legacy)
 
+### 🤔 Curious about
+- RISC-V CPU architecture
+- Reactjs development
+- Electron development
+- UI/UX
+
 ### ⚡ Fun Facts
 - Se habla español
 - 普通話也可以
