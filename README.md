@@ -27,6 +27,25 @@
 - Se habla español
 - 普通話也可以
 
+### 🛠 Tools I Like
+- Mid-2015 MacBook Pro
+- [Dell Ultrasharp U2718Q 27-Inch 4K IPS Monitor](https://smile.amazon.com/gp/product/B073VYVX5S/)
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) for MacOS
+- [Homebrew](https://brew.sh/)
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [PiHole](https://pi-hole.net/)
+- [Raspberry Pi](https://www.raspberrypi.org/)
+- [mosh](https://mosh.org/)
+- [Ikea IDÅSEN Sit/Stand Desk](https://www.ikea.com/us/en/p/idasen-desk-sit-stand-black-dark-gray-s79280998/)
+- [Ikea MARKUS Office Chair](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/)
+- [Brother HL-2270DW Laser Printer](https://www.brother-usa.com/products/hl2270dw)
+- Google Pixel 3
+- [GoRuck GR1 26l Backpack](https://www.goruck.com/collections/gr1/products/gr1?variant=32978334744676)
+- [Zojirushi 600ml Travel Mug](https://smile.amazon.com/dp/B00CHOUI86)
+- Phillips Hue Lights
+- [Light Therapy Lamp](https://smile.amazon.com/gp/product/B074G342RV)
+
 <!--
 **jimmale/jimmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
