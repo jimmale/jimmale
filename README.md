@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+### 🔭 I'm currently working on
+- This GitHub and its contents
+
+### 🌱 I'm currently learning
+- Beyond "Hello World" skills in GoLang
+- "Hello World" skills in Kotlin
+- "Hello World" skills in Rust
+
+### 💬 Ask me about
+- Agile, Scrum, Kanban
+- Java, Springboot
+- Natural Language Processing
+- Metrics, Monitoring, Alerting
+- Compliance-scoped (SOX, PCI, GLBA) systems modernization
+
 <!--
 **jimmale/jimmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
