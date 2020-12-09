@@ -36,7 +36,7 @@
 - [DuckDuckGo](https://duckduckgo.com/)
 - [PiHole](https://pi-hole.net/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
-- [mosh](https://mosh.org/)
+- [mosh](https://mosh.org/), [pv](https://linux.die.net/man/1/pv), [zstd](https://github.com/facebook/zstd)
 - [Ikea IDÅSEN Sit/Stand Desk](https://www.ikea.com/us/en/p/idasen-desk-sit-stand-black-dark-gray-s79280998/) and [Ikea MARKUS Office Chair](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/)
 - [Brother HL-2270DW Laser Printer](https://www.brother-usa.com/products/hl2270dw)
 - Google Pixel 3
