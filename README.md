@@ -2,6 +2,7 @@
 
 ### 🔭 I'm currently working on
 - This GitHub and its contents
+- My butter chicken recipe 🐔
 
 ### 🌱 I'm currently learning
 - Beyond "Hello World" skills in GoLang
@@ -14,6 +15,10 @@
 - Natural Language Processing
 - Metrics, Monitoring, Alerting
 - Compliance-scoped (SOX, PCI, GLBA) systems modernization
+
+### ⚡ Fun Facts
+- Se habla español
+- 普通話也可以
 
 <!--
 **jimmale/jimmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
