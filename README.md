@@ -29,13 +29,11 @@
 
 ### 🛠 Tools I Like
 - Mid-2015 MacBook Pro
-- [Dell Ultrasharp U2718Q 27-Inch 4K IPS Monitor](https://smile.amazon.com/gp/product/B073VYVX5S/)
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) for MacOS
+- [Dell Ultrasharp U2718Q 27-Inch 4K IPS Monitor](https://smile.amazon.com/gp/product/B073VYVX5S/) with [MonitorControl](https://github.com/MonitorControl/MonitorControl) for MacOS
 - [Homebrew](https://brew.sh/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 - [DuckDuckGo](https://duckduckgo.com/)
-- [PiHole](https://pi-hole.net/)
-- [Raspberry Pi](https://www.raspberrypi.org/)
+- [Raspberry Pi](https://www.raspberrypi.org/) and [PiHole](https://pi-hole.net/)
 - [mosh](https://mosh.org/), [pv](https://linux.die.net/man/1/pv), [zstd](https://github.com/facebook/zstd)
 - [Ikea IDÅSEN Sit/Stand Desk](https://www.ikea.com/us/en/p/idasen-desk-sit-stand-black-dark-gray-s79280998/) and [Ikea MARKUS Office Chair](https://www.ikea.com/us/en/p/markus-office-chair-vissle-dark-gray-90289172/)
 - [Brother HL-2270DW Laser Printer](https://www.brother-usa.com/products/hl2270dw)
