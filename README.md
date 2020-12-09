@@ -15,6 +15,7 @@
 - Natural Language Processing
 - Metrics, Monitoring, Alerting
 - Compliance-scoped (SOX, PCI, GLBA) systems modernization
+- Linux system administration (modern or legacy)
 
 ### ⚡ Fun Facts
 - Se habla español
