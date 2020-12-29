@@ -26,7 +26,7 @@
 ### ⚡ Fun Facts
 - Se habla español
 - 普通話也可以
-- I was once elected to public office, and I won by just one vote!
+- I was once elected to public office by just one vote!
 
 ### 🛠 Tools I Like
 - Mid-2015 MacBook Pro
