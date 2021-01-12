@@ -47,6 +47,7 @@
 - [GoAlert](https://github.com/target/goalert) - A paging/alerting platform from Target (my employer)
 - [Vela](https://github.com/go-vela) - A CI/CD platform from Target (my employer)
 - [nohello](https://www.nohello.com/) 
+- [semantic versioning](https://semver.org/)
 
 <!--
 **jimmale/jimmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
