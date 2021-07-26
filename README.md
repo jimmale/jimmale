@@ -48,6 +48,7 @@
 - [Vela](https://github.com/go-vela) - A CI/CD platform from Target (my employer)
 - [nohello](https://www.nohello.com/) 
 - [semantic versioning](https://semver.org/)
+- [The Twelve-Factor App](https://12factor.net/)
 
 <!--
 **jimmale/jimmale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
